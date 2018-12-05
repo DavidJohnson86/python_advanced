@@ -1,0 +1,25 @@
+{% extends "flogger/main.html" %}
+{% block title %}Food logger{% endblock %}
+
+{% block content %}
+{% if meals %}
+    <table>
+        <tbody>
+        <tr><th>Meal name</th><th>Meal time</th></tr>
+        {% for meal in meals %}
+            <tr>
+                <td>{{ meal.name }}</td>
+                <td>{{ meal.date }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% else %}
+    <p>No meal recorded yet.</p>
+{% endif %}
+<p>
+    <a href="{% url 'flogger:add_meal' %}">Record meal</a>
+    <a href="{% url 'flogger:browse_meals' %}">View all meals</a>
+    <a href="{% url 'flogger:edit_foods' %}">Edit foods</a>
+</p>
+{% endblock %}

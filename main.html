@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+    <p>
+        <a href="{% url 'flogger:index' %}">Main</a>
+    </p>
+    {% block content %}{% endblock %}
+</body>
+</html>

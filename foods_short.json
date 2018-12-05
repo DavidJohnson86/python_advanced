@@ -1,0 +1,875 @@
+[
+ {
+  "protein": 15.44,
+  "fat": 2.17,
+  "name": " 1 pita",
+  "energy": 205.0,
+  "carb": 22.68,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 64.0,
+  "fat": 5.7,
+  "name": " A Peak Slim Secret protein - choco biscuit",
+  "energy": 358.0,
+  "carb": 11.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 1.151,
+  "fat": 2.193,
+  "name": " Almanudli M",
+  "energy": 84.444,
+  "carb": 16.125,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 1.151,
+  "fat": 2.193,
+  "name": " Almanudli M",
+  "energy": 84.444,
+  "carb": 16.125,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 6.055,
+  "fat": 2.969,
+  "name": " babguly\u00e1s",
+  "energy": 87.34,
+  "carb": 8.882,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 6.055,
+  "fat": 2.969,
+  "name": " babguly\u00e1s",
+  "energy": 87.34,
+  "carb": 8.882,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 83.4,
+  "fat": 1.68,
+  "name": " Beef Amino Biotech",
+  "energy": 371.0,
+  "carb": 5.65,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.5,
+  "name": " B\u00e9res Porcer\u0151  CSONT-IZOM KOMPLEX",
+  "energy": 193.0,
+  "carb": 33.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.5,
+  "name": " B\u00e9res Porcer\u0151  CSONT-IZOM KOMPLEX",
+  "energy": 193.0,
+  "carb": 33.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.5,
+  "name": " B\u00e9res Porcer\u0151  CSONT-IZOM KOMPLEX",
+  "energy": 193.0,
+  "carb": 33.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.5,
+  "name": " B\u00e9res Porcer\u0151  CSONT-IZOM KOMPLEX",
+  "energy": 193.0,
+  "carb": 33.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 25.0,
+  "fat": 25.0,
+  "name": " Bluedino zs\u00edros, f\u00e9lkem\u00e9ny trappista sajt",
+  "energy": 332.0,
+  "carb": 1.8,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 10.465,
+  "fat": 2.558,
+  "name": " Csirkemell Orly m\u00f3don, p\u00e1rolt burgonya z\u00f6ldekkel, petrezselyemmel",
+  "energy": 123.953,
+  "carb": 12.558,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 10.6,
+  "fat": 6.1,
+  "name": " Dubarry csirkemell, j\u00e1zmin rizs",
+  "energy": 179.6,
+  "carb": 20.5,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 6.7,
+  "fat": 6.1,
+  "name": " Eszterh\u00e1zy pulykatok\u00e1ny (must\u00e1ros, tejf\u00f6l\u00f6s, s\u00e1rgar\u00e9p\u00e1s, feh\u00e9rr\u00e9p\u00e1s ragu), j\u00e1zmin rizs",
+  "energy": 155.8,
+  "carb": 18.2,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.6,
+  "fat": 26.0,
+  "name": " Majon\u00e9z light",
+  "energy": 267.0,
+  "carb": 8.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 13.33,
+  "fat": 6.33,
+  "name": " meggy m\u00e1rt\u00e1s",
+  "energy": 288.0,
+  "carb": 41.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 13.256,
+  "fat": 2.326,
+  "name": " Olasz csirkecomb, Medit\u00e1rr\u00e1n z\u00f6lds\u00e9gek",
+  "energy": 102.558,
+  "carb": 6.744,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.4,
+  "fat": 4.88,
+  "name": " Olaszos tepsis csirkemell, z\u00f6lds\u00e9ges barna rizs",
+  "energy": 163.49,
+  "carb": 17.21,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.395,
+  "fat": 4.884,
+  "name": " Olaszos tepsis csirkemell, z\u00f6lds\u00e9ges barna rizs",
+  "energy": 163.488,
+  "carb": 17.209,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.395,
+  "fat": 4.884,
+  "name": " Olaszos tepsis csirkemell, z\u00f6lds\u00e9ges barna rizs",
+  "energy": 38.021,
+  "carb": 17.209,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.395,
+  "fat": 4.884,
+  "name": " Olaszos tepsis csirkemell, z\u00f6lds\u00e9ges barna rizs (kis adag)",
+  "energy": 163.488,
+  "carb": 17.209,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 7.674,
+  "fat": 4.186,
+  "name": " Parajf\u0151zel\u00e9k, Z\u00f6lds\u00e9ges sz\u00e1rnyas vagdalt(Vit\u00e1lkonyha)",
+  "energy": 176.977,
+  "carb": 14.651,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 33.0,
+  "fat": 18.0,
+  "name": " Parajf\u0151zel\u00e9k, Z\u00f6lds\u00e9ges sz\u00e1rnyas vagdalt(Vit\u00e1lkonyha)",
+  "energy": 126.05,
+  "carb": 63.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 18.292,
+  "fat": 4.124,
+  "name": " r\u00e1ntotth\u00fas fitt e",
+  "energy": 212.627,
+  "carb": 24.455,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.0,
+  "fat": 8.75,
+  "name": " Roston s\u00fclt pulykamell, sajtos vajbab (Vit\u00e1lkonyha)",
+  "energy": 155.0,
+  "carb": 6.25,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 13.5,
+  "fat": 7.5,
+  "name": " Roston s\u00fclt pulykamell, sajtos vajbab (Vit\u00e1lkonyha)",
+  "energy": 148.0,
+  "carb": 5.9,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.0,
+  "name": " Stevia csepp (Dr. Chen f\u00e9le)",
+  "energy": 0.0,
+  "carb": 96.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.0,
+  "name": " Stevia csepp (Dr. Chen f\u00e9le)",
+  "energy": 0.0,
+  "carb": 96.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.0,
+  "name": " Stevia csepp (Dr. Chen f\u00e9le)",
+  "energy": 0.0,
+  "carb": 96.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.0,
+  "name": " Stevia csepp (Dr. Chen f\u00e9le)",
+  "energy": 0.0,
+  "carb": 96.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 3.0,
+  "fat": 1.7,
+  "name": " van\u00edli\u00e1s puding",
+  "energy": 96.0,
+  "carb": 17.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.3,
+  "fat": 0.2,
+  "name": " van\u00edli\u00e1s puding Ruf",
+  "energy": 351.0,
+  "carb": 87.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.0,
+  "fat": 11.0,
+  "name": " Well Mix Fitness",
+  "energy": 395.0,
+  "carb": 62.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 28.0,
+  "fat": 28.0,
+  "name": "(interfood) Ropog\u00f3sra s\u00fclt kapr\u00f3s-t\u00far\u00f3s csirkemell, z\u00f6lds\u00e9ges j\u00e1zminrizs",
+  "energy": 394.0,
+  "carb": 38.0,
+  "unit": "adag",
+  "amount": 1
+ },
+ {
+  "protein": 9.792,
+  "fat": 5.0,
+  "name": "(interfood) Ropog\u00f3sra s\u00fclt kapr\u00f3s-t\u00far\u00f3s csirkemell, z\u00f6lds\u00e9ges j\u00e1zminrizs",
+  "energy": 136.875,
+  "carb": 13.333,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.333,
+  "fat": 2.667,
+  "name": "(interfood) Ropog\u00f3sra s\u00fclt kapr\u00f3s-t\u00far\u00f3s csirkemell, z\u00f6lds\u00e9ges j\u00e1zminrizs",
+  "energy": 139.0,
+  "carb": 16.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 8.667,
+  "fat": 4.667,
+  "name": "(interfood) Ropog\u00f3sra s\u00fclt kapr\u00f3s-t\u00far\u00f3s csirkemell, z\u00f6lds\u00e9ges j\u00e1zminrizs",
+  "energy": 131.333,
+  "carb": 12.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 26.0,
+  "fat": 14.0,
+  "name": "(interfood) Ropog\u00f3sra s\u00fclt kapr\u00f3s-t\u00far\u00f3s csirkemell, z\u00f6lds\u00e9ges j\u00e1zminrizs",
+  "energy": 394.0,
+  "carb": 36.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 9.333,
+  "fat": 4.667,
+  "name": "(interfood) Ropog\u00f3sra s\u00fclt kapr\u00f3s-t\u00far\u00f3s csirkemell, z\u00f6lds\u00e9ges j\u00e1zminrizs",
+  "energy": 131.333,
+  "carb": 12.667,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 9.0,
+  "fat": 3.667,
+  "name": "(interfood) Rostons\u00fclt csirkemell, p\u00e1rolt z\u00f6lds\u00e9gk\u00f6ret",
+  "energy": 98.0,
+  "carb": 6.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 31.0,
+  "fat": 18.0,
+  "name": "(interfood)Paradicsommal mozzarell\u00e1val s\u00fclt pulykamell, grill z\u00f6lds\u00e9gek ",
+  "energy": 374.0,
+  "carb": 22.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 31.0,
+  "fat": 18.0,
+  "name": "(interfood)Paradicsommal mozzarell\u00e1val s\u00fclt pulykamell, grill z\u00f6lds\u00e9gek ",
+  "energy": 374.0,
+  "carb": 22.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 4.167,
+  "fat": 1.667,
+  "name": "*Simple Salad (Tesco)",
+  "energy": 100.0,
+  "carb": 14.444,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 70.0,
+  "fat": 6.3,
+  "name": "100% Milk Complex Belga csokol\u00e1d\u00e9s",
+  "energy": 353.0,
+  "carb": 4.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.0,
+  "name": "1x1 kalcium  c-vitamin pezsg\u0151tabletta",
+  "energy": 157.14,
+  "carb": 0.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.11,
+  "name": "1X1 Vitaday C-vitamin 500 mg",
+  "energy": 2.52,
+  "carb": 0.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.95,
+  "name": "1X1 Vitaday C-vitamin 500 mg",
+  "energy": 285.0,
+  "carb": 49.9,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.95,
+  "name": "1X1 Vitaday C-vitamin 500 mg r\u00e1g\u00f3tabletta",
+  "energy": 285.0,
+  "carb": 49.9,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.0,
+  "fat": 0.95,
+  "name": "1x1 vitaday Multivitamin ( cink \u00e9s vas)",
+  "energy": 222.0,
+  "carb": 83.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.568,
+  "fat": 0.814,
+  "name": "6_z\u00f6lds\u00e9gleves",
+  "energy": 20.772,
+  "carb": 2.706,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.568,
+  "fat": 0.814,
+  "name": "6_z\u00f6lds\u00e9gleves",
+  "energy": 20.772,
+  "carb": 2.706,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.796,
+  "fat": 0.483,
+  "name": "6_z\u00f6lds\u00e9gleves(3)",
+  "energy": 28.557,
+  "carb": 5.101,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 0.796,
+  "fat": 0.483,
+  "name": "6_z\u00f6lds\u00e9gleves_2017_11_25",
+  "energy": 28.557,
+  "carb": 5.101,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 6.462,
+  "fat": 25.846,
+  "name": "7days croassan midi pezs\u0151gkr\u00e9mes",
+  "energy": 415.385,
+  "carb": 37.846,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 6.46,
+  "fat": 25.85,
+  "name": "7days croassan midi pezs\u0151gkr\u00e9mes",
+  "energy": 415.39,
+  "carb": 37.85,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 6.46,
+  "fat": 25.85,
+  "name": "7days croissant midi pezs\u0151gkr\u00e9mes",
+  "energy": 415.39,
+  "carb": 37.85,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 10.1,
+  "fat": 48.0,
+  "name": "9 Giotto",
+  "energy": 632.0,
+  "carb": 38.4,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 1.305,
+  "fat": 4.226,
+  "name": "a t\u00f6kmagolajos sali",
+  "energy": 65.154,
+  "carb": 5.132,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 3.3,
+  "fat": 3.0,
+  "name": "Aba\u00faj joghurt nat\u00far",
+  "energy": 58.0,
+  "carb": 4.2,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.9,
+  "fat": 2.6,
+  "name": "Abonett Extrud\u00e1lt Keny\u00e9r",
+  "energy": 343.0,
+  "carb": 67.1,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.9,
+  "fat": 2.6,
+  "name": "Abonett Extrud\u00e1lt Keny\u00e9r",
+  "energy": 343.0,
+  "carb": 67.1,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.0,
+  "fat": 2.7,
+  "name": "Abonett Extrud\u00e1lt Keny\u00e9r Korp\u00e1s",
+  "energy": 361.0,
+  "carb": 64.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.0,
+  "fat": 2.7,
+  "name": "Abonett extrud\u00e1lt keny\u00e9r korp\u00e1s",
+  "energy": 361.0,
+  "carb": 64.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.0,
+  "fat": 2.7,
+  "name": "Abonett extrud\u00e1lt keny\u00e9r korp\u00e1s",
+  "energy": 3601.0,
+  "carb": 64.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 9.3,
+  "fat": 2.3,
+  "name": "Abonett extrud\u00e1lt keny\u00e9r Rozsos",
+  "energy": 346.0,
+  "carb": 66.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.9,
+  "fat": 2.6,
+  "name": "Abonett extrud\u00e1lt keny\u00e9r Zabos",
+  "energy": 343.0,
+  "carb": 67.1,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 9.3,
+  "fat": 2.3,
+  "name": "Abonett extrud\u00e1lt rozsos keny\u00e9r",
+  "energy": 346.0,
+  "carb": 66.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 9.3,
+  "fat": 3.8,
+  "name": "Abonett k\u00f6leses",
+  "energy": 358.0,
+  "carb": 66.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.6,
+  "fat": 9.0,
+  "name": "abonett k\u00f6lesgoly\u00f3 f\u00f6ldimogyor\u00f3s",
+  "energy": 383.0,
+  "carb": 62.6,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.6,
+  "fat": 9.0,
+  "name": "abonett k\u00f6lesgoly\u00f3 f\u00f6ldimogyor\u00f3s snack",
+  "energy": 383.0,
+  "carb": 62.6,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.6,
+  "fat": 9.0,
+  "name": "abonett k\u00f6lesgoly\u00f3 f\u00f6ldimogyor\u00f3s snack",
+  "energy": 383.0,
+  "carb": 62.6,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.6,
+  "fat": 9.0,
+  "name": "abonett k\u00f6lesgoly\u00f3 f\u00f6ldimogyor\u00f3s snack",
+  "energy": 383.0,
+  "carb": 62.6,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.6,
+  "fat": 9.0,
+  "name": "abonett k\u00f6lesgoly\u00f3 f\u00f6ldimogyor\u00f3s snack",
+  "energy": 383.0,
+  "carb": 62.6,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 8.9,
+  "fat": 3.8,
+  "name": "Abonett kukoric\u00e1s extrud\u00e1lt szelet GGG",
+  "energy": 347.0,
+  "carb": 64.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.6,
+  "fat": 1.9,
+  "name": "Abonett Pizz\u00e1s extrud\u00e1lt keny\u00e9r",
+  "energy": 325.0,
+  "carb": 64.4,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.6,
+  "fat": 1.9,
+  "name": "Abonett Pizz\u00e1s extrud\u00e1lt keny\u00e9r",
+  "energy": 325.0,
+  "carb": 64.4,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.6,
+  "fat": 1.9,
+  "name": "Abonett Pizz\u00e1s extrud\u00e1lt keny\u00e9r",
+  "energy": 325.0,
+  "carb": 64.4,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 11.6,
+  "fat": 1.9,
+  "name": "Abonett Pizz\u00e1s extrud\u00e1lt keny\u00e9r",
+  "energy": 325.0,
+  "carb": 64.4,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.0,
+  "fat": 2.6,
+  "name": "Abonett pizz\u00e1s extrud\u00e1lt keny\u00e9r",
+  "energy": 356.0,
+  "carb": 65.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 12.0,
+  "fat": 15.0,
+  "name": "Abonett SlimUp Sandwich",
+  "energy": 434.0,
+  "carb": 60.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 9.3,
+  "fat": 2.3,
+  "name": "Abonett zabos",
+  "energy": 346.0,
+  "carb": 66.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 72.0,
+  "fat": 4.1,
+  "name": "AbsoRice - Csokis",
+  "energy": 382.0,
+  "carb": 9.8,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 72.0,
+  "fat": 7.3,
+  "name": "AbsoRice - Csokis",
+  "energy": 394.0,
+  "carb": 12.6,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 35.0,
+  "fat": 13.0,
+  "name": "ABY Bio M\u00e1kliszt",
+  "energy": 325.0,
+  "carb": 12.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 33.0,
+  "fat": 9.0,
+  "name": "ABY Diet perfekt day van\u00edlia",
+  "energy": 368.0,
+  "carb": 33.0,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 7.5,
+  "fat": 15.8,
+  "name": "Achla Strauss Hummus humusz",
+  "energy": 218.0,
+  "carb": 11.6,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 50.0,
+  "fat": 3.667,
+  "name": "Adiponix di\u00e9t\u00e1s tutmixpor fah\u00e9j-vanilia",
+  "energy": 360.0,
+  "carb": 33.333,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 50.0,
+  "fat": 4.3,
+  "name": "adiponix turmix, csoki",
+  "energy": 333.0,
+  "carb": 28.3,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 50.0,
+  "fat": 4.3,
+  "name": "adiponix turmix, csoki",
+  "energy": 333.0,
+  "carb": 28.3,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 14.091,
+  "fat": 2.852,
+  "name": "Adri - feh\u00e9rjekr\u00e9m",
+  "energy": 98.545,
+  "carb": 3.364,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 8.512,
+  "fat": 3.168,
+  "name": "Adri - t\u00far\u00f3torta \u00daj ",
+  "energy": 78.253,
+  "carb": 4.557,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 4.0,
+  "fat": 4.0,
+  "name": "\u00c1fony\u00e1s mcfreeze ",
+  "energy": 226.0,
+  "carb": 43.0,
+  "unit": "adag",
+  "amount": 1
+ },
+ {
+  "protein": 4.0,
+  "fat": 4.0,
+  "name": "\u00c1fony\u00e1s mcfreeze ",
+  "energy": 235.0,
+  "carb": 43.0,
+  "unit": "adag",
+  "amount": 1
+ },
+ {
+  "protein": 10.465,
+  "fat": 1.628,
+  "name": "Afrikai harcsaszeletek p\u00e1rizsi bund\u00e1ban, gomb\u00e1s, petrezselymes rizs",
+  "energy": 120.465,
+  "carb": 15.581,
+  "unit": "g",
+  "amount": 100
+ },
+ {
+  "protein": 25.0,
+  "fat": 4.0,
+  "name": "Afrikai harcsaszeletek p\u00e1rizsi bund\u00e1ban, gomb\u00e1s, petrezselymes rizs",
+  "energy": 299.0,
+  "carb": 38.0,
+  "unit": "adag",
+  "amount": 1
+ },
+ {
+  "protein": 10.465,
+  "fat": 1.628,
+  "name": "Afrikai harcsaszeletek p\u00e1rizsi bund\u00e1ban, gomb\u00e1s, petrezselymes rizs",
+  "energy": 120.465,
+  "carb": 15.581,
+  "unit": "g",
+  "amount": 100
+ }
+]
